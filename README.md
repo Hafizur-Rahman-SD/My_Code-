@@ -1,4 +1,7 @@
-problem: this is main structure in C programming language. 
+Its Basic code just for my practice purpose
+
+
+problem: This is main structure in C programming language. 
 
 
 #include<stdio.h>
