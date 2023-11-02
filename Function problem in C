@@ -12,6 +12,8 @@ else{
 printf("ODD");
 }
 }
+
+
 int main(){
  even_or_odd (10);
 return 0;
