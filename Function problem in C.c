@@ -10,9 +10,7 @@ printf("EVEN\n");
 }
 else{
 printf("ODD");
-}
-}
-
+}}
 
 int main(){
  even_or_odd (10);
