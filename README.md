@@ -1,8 +1,7 @@
-Its Basic code just for my practice purpose
+Its Basic code just for my practice purpose.
 
 
 problem: This is main structure in C programming language. 
-
 
 #include<stdio.h>
 int main(){
