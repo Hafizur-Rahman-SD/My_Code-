@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-    int a;
+    int a;  //declear variable type integer and variable name a,b,c.
     int b;
     int c;
        a=10;
