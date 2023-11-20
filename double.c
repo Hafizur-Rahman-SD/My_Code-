@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
- double a,b,c;
+ double a,b,c; //declear vaiable type and name.
  a=50;
  b=60;
  c=70;
