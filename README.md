@@ -1,11 +1,5 @@
-Its Basic code just for my practice purpose.
+Its Basic code just for my practice purpose. Here i just write some simple code for my study /note. 
 
 
-problem: This is main structure in C programming language. 
 
-#include<stdio.h>
-int main(){
-printf(" HI! I am Hafizur Rahman"); // in this "" you can write anything what you want. 
-return 0;
-}
 
