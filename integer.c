@@ -6,7 +6,7 @@ int main(){
     int c;
        a=10;
        b=30;
-       c=50;
+       c=70;
 
 printf("Result is: %d\n",a+b);
 return 0;
