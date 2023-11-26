@@ -4,7 +4,7 @@ int main(){
     int a;  //declear variable type integer and variable name a,b,c.
     int b;
     int c;
-       a=10;
+       a=10;            //variable valu deside 
        b=30;
        c=70;
 
