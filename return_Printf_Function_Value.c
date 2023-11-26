@@ -1,4 +1,4 @@
-
+//printf() function return. here we can undrastand what is the return i ptintf() function.
 #include <stdio.h>
 int main(){
 int a ;
