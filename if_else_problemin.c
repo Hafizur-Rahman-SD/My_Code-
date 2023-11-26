@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>    //heder file and function
 int main(){
 
   int =a;
