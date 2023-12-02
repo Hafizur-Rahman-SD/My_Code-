@@ -4,7 +4,7 @@ float x;
 float y;
 float z;
     
-x= 9.3;
+x= 9.3;  //
 y =6.9;
 z= 7.13;
 
