@@ -1,4 +1,3 @@
-
 //This code for know how to take input from User.
 
 #include<stdio.h>
