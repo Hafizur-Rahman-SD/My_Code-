@@ -7,7 +7,7 @@ int main(){
 //here write what you want , its your code body part. 
 
 
-
+w
 
 
 
