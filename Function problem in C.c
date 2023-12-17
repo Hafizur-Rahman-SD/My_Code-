@@ -1,5 +1,3 @@
-
-
 /*Hello,
 Write a function that take an integer as inpiut and prints EVEN if the number 
 is divisable by 2, otherwise prints ODD. call this function from the main function.*/
