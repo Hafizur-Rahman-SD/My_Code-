@@ -1,4 +1,5 @@
 // test code done. 
+
 #include<stdio.h>
 int main(){
  double a,b,c; //declear vaiable type and name.
