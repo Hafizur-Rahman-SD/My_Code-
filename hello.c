@@ -4,7 +4,8 @@
 #include<stdio.h>
 int main (void){
     
-    printf("Enter your name/ what you want");
+    printf("Enter your name/ what you want"); //write your logic here 
+    
     return 0; 
 }
 
